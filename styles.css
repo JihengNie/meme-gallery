@@ -47,6 +47,13 @@ button {
   color: #fff;
 }
 
+main {
+  max-width: 960px;
+  margin: 32px auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .gallery-image {
   object-fit: cover;
   width: 310px;
